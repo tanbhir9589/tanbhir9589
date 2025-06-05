@@ -1,5 +1,8 @@
-<h2 align="left">Hi 👋! My name is Tanbhir, and I'm a Web Developer from  Excell Engine.I enjoy building responsive and user-friendly websites and web applications. Passionate about clean code, continuous learning, and solving real-world problems through the web.</h2>
+<h2 align="left">Hi 👋! My name is Tanbhir </h2> 
+<h3>I'm a passionate Web Developer with hands-on experience in building dynamic and responsive websites using modern web technologies like HTML, CSS, Bootstrap, JavaScript, React, and PHP.
 
+I specialize in crafting clean, user-friendly interfaces and enjoy turning ideas into real-world web applications. Whether it's front-end design or back-end development, I love creating solutions that are both functional and visually appealing. 
+</h3>
 ###
 
 <div align="center">
